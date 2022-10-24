@@ -2,7 +2,7 @@
 
 # Hi!
 
-I am a senior undergraduate student in Computer Science Engineering at IIT Gandhinagar, majoring in Computer science. I like to work on problems that could replace human visual perception and automate it with machine visual perception.
+I am a senior undergraduate student in Computer Science Engineering at IIT Gandhinagar, specializing in Computer Vision. I like to work on problems that could replace human visual perception and automate it with machine visual perception.
 
 The best way to reach me is via <a href="mailto:vp.shivasan@iitgn.ac.in">email</a>&nbsp;&nbsp;
 
