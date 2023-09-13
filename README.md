@@ -2,9 +2,9 @@
 
 # Hi!
 
-I am a senior undergraduate student in Computer Science Engineering at IIT Gandhinagar, specializing in Computer Vision. I like to work on problems that could replace human visual perception and automate it with machine visual perception.
+I am a graduate student at Stony Brook University pursuing Master's in computer science, where I am affiliated with the CV lab and work with Prof. Haibin Ling. I previously did my Bachelors(Hons) in computer science from Indian Institute of Technology - Gandhinagar. I like to work on problems related to deep learning in the fields of computer vision and natural language processing.
 
-The best way to reach me is via <a href="mailto:vp.shivasan@iitgn.ac.in">email</a>&nbsp;&nbsp;
+The best way to reach me is via <a href="mailto:svanajapandi@cs.stonybrook.edu">email</a>&nbsp;&nbsp;
 
 Check out my  <a href="https://shiva-sankaran.github.io">website</a>.
 
